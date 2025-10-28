@@ -45,7 +45,6 @@ src/
 2. Clone your new project to your computer:
    ```bash
    git clone https://github.com/your-username/new-project.git
-   cd new-project
 
 3. Change into the project directory:
    ```bash
@@ -61,4 +60,5 @@ src/
 
 6. Start the dev server:
    ```bash
+
    npm run dev
